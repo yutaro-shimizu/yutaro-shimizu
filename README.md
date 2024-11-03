@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yutaro</h1>
+<h1 align="center">Hello! I'm Yutaro</h1>
 <h3 align="center">A computational ecologist using #systemsthinking and #remotesensing</h3>
 
 - 🌱 I’m currently learning **Pytorch**
